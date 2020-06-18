@@ -1,0 +1,58 @@
+/*global*/
+html {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  background-color: rgba(230, 230, 250, 0.966);
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+main h2 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+/*fortalezas*/
+.fortalezas h2 {
+  color: red;
+}
+.fortalezas p {
+  color: rgba(65, 105, 225, 0.671);
+}
+
+/*oportunidades*/
+.oportunidades h2 {
+  color: seagreen;
+}
+.oportunidades p {
+  color: rgba(105, 90, 205, 0.705);
+}
+
+/*debilidades*/
+.debilidades h2 {
+  color: brown;
+}
+.debilidades p {
+  color: rgba(184, 135, 11, 0.788);
+}
+
+/*amenazas*/
+.amenazas h2 {
+  color: fuchsia;
+}
+.amenazas p {
+  color: rgba(106, 142, 35, 0.733);
+}
+
+/*footer*/
+footer {
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+}
